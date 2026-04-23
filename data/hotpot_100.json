@@ -1,0 +1,1602 @@
+[
+  {
+    "qid": "hp1",
+    "difficulty": "easy",
+    "question": "Which university did Albert Einstein teach at?",
+    "gold_answer": "Princeton University",
+    "context": [
+      {
+        "title": "Albert Einstein",
+        "text": "Albert Einstein taught at Princeton University."
+      },
+      {
+        "title": "Princeton University",
+        "text": "Princeton University is located in New Jersey."
+      }
+    ]
+  },
+  {
+    "qid": "hp2",
+    "difficulty": "easy",
+    "question": "Which university did Stephen Hawking teach at?",
+    "gold_answer": "Cambridge University",
+    "context": [
+      {
+        "title": "Stephen Hawking",
+        "text": "Stephen Hawking was a professor at Cambridge University."
+      },
+      {
+        "title": "Cambridge University",
+        "text": "Cambridge University is one of the oldest universities in the world."
+      }
+    ]
+  },
+  {
+    "qid": "hp3",
+    "difficulty": "easy",
+    "question": "Which university did Marie Curie teach at?",
+    "gold_answer": "University of Paris",
+    "context": [
+      {
+        "title": "Marie Curie",
+        "text": "Marie Curie taught at the University of Paris."
+      },
+      {
+        "title": "University of Paris",
+        "text": "The University of Paris is a historic university in France."
+      }
+    ]
+  },
+  {
+    "qid": "hp4",
+    "difficulty": "easy",
+    "question": "Which university did Richard Feynman teach at?",
+    "gold_answer": "Caltech",
+    "context": [
+      {
+        "title": "Richard Feynman",
+        "text": "Richard Feynman was a professor at Caltech."
+      },
+      {
+        "title": "Caltech",
+        "text": "Caltech is located in Pasadena, California."
+      }
+    ]
+  },
+  {
+    "qid": "hp5",
+    "difficulty": "easy",
+    "question": "Which university did Noam Chomsky teach at?",
+    "gold_answer": "MIT",
+    "context": [
+      {
+        "title": "Noam Chomsky",
+        "text": "Noam Chomsky is a professor at MIT."
+      },
+      {
+        "title": "MIT",
+        "text": "MIT is located in Cambridge, Massachusetts."
+      }
+    ]
+  },
+  {
+    "qid": "hp6",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Charles Darwin was born?",
+    "gold_answer": "River Severn",
+    "context": [
+      {
+        "title": "Charles Darwin",
+        "text": "Charles Darwin was born in Shrewsbury, England."
+      },
+      {
+        "title": "Shrewsbury",
+        "text": "The River Severn flows through Shrewsbury."
+      }
+    ]
+  },
+  {
+    "qid": "hp7",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Wolfgang Mozart was born?",
+    "gold_answer": "Salzach River",
+    "context": [
+      {
+        "title": "Wolfgang Mozart",
+        "text": "Wolfgang Mozart was born in Salzburg, Austria."
+      },
+      {
+        "title": "Salzburg",
+        "text": "The Salzach River flows through Salzburg."
+      }
+    ]
+  },
+  {
+    "qid": "hp8",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Leonardo da Vinci was born?",
+    "gold_answer": "Arno River",
+    "context": [
+      {
+        "title": "Leonardo da Vinci",
+        "text": "Leonardo da Vinci was born in Vinci, near Florence, Italy."
+      },
+      {
+        "title": "Florence",
+        "text": "The Arno River flows through Florence."
+      }
+    ]
+  },
+  {
+    "qid": "hp9",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Pablo Picasso was born?",
+    "gold_answer": "Guadalmedina River",
+    "context": [
+      {
+        "title": "Pablo Picasso",
+        "text": "Pablo Picasso was born in Málaga, Spain."
+      },
+      {
+        "title": "Málaga",
+        "text": "The Guadalmedina River flows through Málaga."
+      }
+    ]
+  },
+  {
+    "qid": "hp10",
+    "difficulty": "medium",
+    "question": "What river flows through the city where Sigmund Freud was born?",
+    "gold_answer": "Danube River",
+    "context": [
+      {
+        "title": "Sigmund Freud",
+        "text": "Sigmund Freud was born in Příbor but lived in Vienna."
+      },
+      {
+        "title": "Vienna",
+        "text": "The Danube River flows through Vienna."
+      }
+    ]
+  },
+  {
+    "qid": "hp11",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Tokyo?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is the capital of Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan is bordered by the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp12",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Canberra?",
+    "gold_answer": "Indian Ocean",
+    "context": [
+      {
+        "title": "Canberra",
+        "text": "Canberra is the capital of Australia."
+      },
+      {
+        "title": "Australia",
+        "text": "Australia is bordered by the Indian Ocean to the west."
+      }
+    ]
+  },
+  {
+    "qid": "hp13",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Oslo?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Oslo",
+        "text": "Oslo is the capital of Norway."
+      },
+      {
+        "title": "Norway",
+        "text": "Norway is bordered by the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp14",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Wellington?",
+    "gold_answer": "Pacific Ocean",
+    "context": [
+      {
+        "title": "Wellington",
+        "text": "Wellington is the capital of New Zealand."
+      },
+      {
+        "title": "New Zealand",
+        "text": "New Zealand is surrounded by the Pacific Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp15",
+    "difficulty": "medium",
+    "question": "Which ocean borders the country whose capital is Lisbon?",
+    "gold_answer": "Atlantic Ocean",
+    "context": [
+      {
+        "title": "Lisbon",
+        "text": "Lisbon is the capital of Portugal."
+      },
+      {
+        "title": "Portugal",
+        "text": "Portugal is bordered by the Atlantic Ocean."
+      }
+    ]
+  },
+  {
+    "qid": "hp16",
+    "difficulty": "hard",
+    "question": "What mountain range is in the country where Machu Picchu is located?",
+    "gold_answer": "Andes",
+    "context": [
+      {
+        "title": "Machu Picchu",
+        "text": "Machu Picchu is located in Peru."
+      },
+      {
+        "title": "Peru",
+        "text": "The Andes mountain range runs through Peru."
+      }
+    ]
+  },
+  {
+    "qid": "hp17",
+    "difficulty": "hard",
+    "question": "What mountain range is in the country where Angkor Wat is located?",
+    "gold_answer": "Cardamom Mountains",
+    "context": [
+      {
+        "title": "Angkor Wat",
+        "text": "Angkor Wat is located in Cambodia."
+      },
+      {
+        "title": "Cambodia",
+        "text": "The Cardamom Mountains are in Cambodia."
+      }
+    ]
+  },
+  {
+    "qid": "hp18",
+    "difficulty": "hard",
+    "question": "What mountain range is in the country where Taj Mahal is located?",
+    "gold_answer": "Himalayas",
+    "context": [
+      {
+        "title": "Taj Mahal",
+        "text": "The Taj Mahal is located in India."
+      },
+      {
+        "title": "India",
+        "text": "The Himalayas are in northern India."
+      }
+    ]
+  },
+  {
+    "qid": "hp19",
+    "difficulty": "hard",
+    "question": "What mountain range is in the country where Colosseum is located?",
+    "gold_answer": "Apennines",
+    "context": [
+      {
+        "title": "Colosseum",
+        "text": "The Colosseum is located in Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "The Apennine Mountains run through Italy."
+      }
+    ]
+  },
+  {
+    "qid": "hp20",
+    "difficulty": "hard",
+    "question": "What mountain range is in the country where Acropolis is located?",
+    "gold_answer": "Pindus Mountains",
+    "context": [
+      {
+        "title": "Acropolis",
+        "text": "The Acropolis is located in Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "The Pindus Mountains are in Greece."
+      }
+    ]
+  },
+  {
+    "qid": "hp21",
+    "difficulty": "easy",
+    "question": "What instrument did Frédéric Chopin primarily compose for?",
+    "gold_answer": "piano",
+    "context": [
+      {
+        "title": "Frédéric Chopin",
+        "text": "Frédéric Chopin was a Polish composer and virtuoso pianist."
+      },
+      {
+        "title": "piano",
+        "text": "The piano is a keyboard instrument."
+      }
+    ]
+  },
+  {
+    "qid": "hp22",
+    "difficulty": "easy",
+    "question": "What instrument did Niccolò Paganini primarily compose for?",
+    "gold_answer": "violin",
+    "context": [
+      {
+        "title": "Niccolò Paganini",
+        "text": "Niccolò Paganini was an Italian violinist and composer."
+      },
+      {
+        "title": "violin",
+        "text": "The violin is a string instrument."
+      }
+    ]
+  },
+  {
+    "qid": "hp23",
+    "difficulty": "easy",
+    "question": "What instrument did Johann Sebastian Bach primarily compose for?",
+    "gold_answer": "organ",
+    "context": [
+      {
+        "title": "Johann Sebastian Bach",
+        "text": "Johann Sebastian Bach was known for his organ compositions."
+      },
+      {
+        "title": "organ",
+        "text": "The organ is a keyboard instrument with pipes."
+      }
+    ]
+  },
+  {
+    "qid": "hp24",
+    "difficulty": "easy",
+    "question": "What instrument did Miles Davis primarily compose for?",
+    "gold_answer": "trumpet",
+    "context": [
+      {
+        "title": "Miles Davis",
+        "text": "Miles Davis was an American jazz trumpeter."
+      },
+      {
+        "title": "trumpet",
+        "text": "The trumpet is a brass instrument."
+      }
+    ]
+  },
+  {
+    "qid": "hp25",
+    "difficulty": "easy",
+    "question": "What instrument did Yo-Yo Ma primarily compose for?",
+    "gold_answer": "cello",
+    "context": [
+      {
+        "title": "Yo-Yo Ma",
+        "text": "Yo-Yo Ma is a world-renowned cellist."
+      },
+      {
+        "title": "cello",
+        "text": "The cello is a string instrument."
+      }
+    ]
+  },
+  {
+    "qid": "hp26",
+    "difficulty": "medium",
+    "question": "What language family does the official language of France belong to?",
+    "gold_answer": "Romance",
+    "context": [
+      {
+        "title": "France",
+        "text": "The official language of France is French."
+      },
+      {
+        "title": "French",
+        "text": "French is a Romance language."
+      }
+    ]
+  },
+  {
+    "qid": "hp27",
+    "difficulty": "medium",
+    "question": "What language family does the official language of Germany belong to?",
+    "gold_answer": "Germanic",
+    "context": [
+      {
+        "title": "Germany",
+        "text": "The official language of Germany is German."
+      },
+      {
+        "title": "German",
+        "text": "German is a Germanic language."
+      }
+    ]
+  },
+  {
+    "qid": "hp28",
+    "difficulty": "medium",
+    "question": "What language family does the official language of Russia belong to?",
+    "gold_answer": "Slavic",
+    "context": [
+      {
+        "title": "Russia",
+        "text": "The official language of Russia is Russian."
+      },
+      {
+        "title": "Russian",
+        "text": "Russian is a Slavic language."
+      }
+    ]
+  },
+  {
+    "qid": "hp29",
+    "difficulty": "medium",
+    "question": "What language family does the official language of Iran belong to?",
+    "gold_answer": "Indo-Iranian",
+    "context": [
+      {
+        "title": "Iran",
+        "text": "The official language of Iran is Persian."
+      },
+      {
+        "title": "Persian",
+        "text": "Persian is an Indo-Iranian language."
+      }
+    ]
+  },
+  {
+    "qid": "hp30",
+    "difficulty": "medium",
+    "question": "What language family does the official language of Finland belong to?",
+    "gold_answer": "Uralic",
+    "context": [
+      {
+        "title": "Finland",
+        "text": "The official language of Finland is Finnish."
+      },
+      {
+        "title": "Finnish",
+        "text": "Finnish is a Uralic language."
+      }
+    ]
+  },
+  {
+    "qid": "hp31",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Athens is the capital?",
+    "gold_answer": "Aegean Sea",
+    "context": [
+      {
+        "title": "Athens",
+        "text": "Athens is the capital of Greece."
+      },
+      {
+        "title": "Greece",
+        "text": "Greece is bordered by the Aegean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp32",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Rome is the capital?",
+    "gold_answer": "Mediterranean Sea",
+    "context": [
+      {
+        "title": "Rome",
+        "text": "Rome is the capital of Italy."
+      },
+      {
+        "title": "Italy",
+        "text": "Italy is bordered by the Mediterranean Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp33",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Stockholm is the capital?",
+    "gold_answer": "Baltic Sea",
+    "context": [
+      {
+        "title": "Stockholm",
+        "text": "Stockholm is the capital of Sweden."
+      },
+      {
+        "title": "Sweden",
+        "text": "Sweden is bordered by the Baltic Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp34",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Bangkok is the capital?",
+    "gold_answer": "Andaman Sea",
+    "context": [
+      {
+        "title": "Bangkok",
+        "text": "Bangkok is the capital of Thailand."
+      },
+      {
+        "title": "Thailand",
+        "text": "Thailand is bordered by the Andaman Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp35",
+    "difficulty": "hard",
+    "question": "What sea borders the country where Cairo is the capital?",
+    "gold_answer": "Red Sea",
+    "context": [
+      {
+        "title": "Cairo",
+        "text": "Cairo is the capital of Egypt."
+      },
+      {
+        "title": "Egypt",
+        "text": "Egypt is bordered by the Red Sea."
+      }
+    ]
+  },
+  {
+    "qid": "hp36",
+    "difficulty": "easy",
+    "question": "Who wrote the novel 1984?",
+    "gold_answer": "George Orwell",
+    "context": [
+      {
+        "title": "1984",
+        "text": "1984 is a dystopian novel."
+      },
+      {
+        "title": "George Orwell",
+        "text": "George Orwell wrote 1984."
+      }
+    ]
+  },
+  {
+    "qid": "hp37",
+    "difficulty": "easy",
+    "question": "Who wrote the novel Pride and Prejudice?",
+    "gold_answer": "Jane Austen",
+    "context": [
+      {
+        "title": "Pride and Prejudice",
+        "text": "Pride and Prejudice is a romance novel."
+      },
+      {
+        "title": "Jane Austen",
+        "text": "Jane Austen wrote Pride and Prejudice."
+      }
+    ]
+  },
+  {
+    "qid": "hp38",
+    "difficulty": "easy",
+    "question": "Who wrote the novel The Great Gatsby?",
+    "gold_answer": "F. Scott Fitzgerald",
+    "context": [
+      {
+        "title": "The Great Gatsby",
+        "text": "The Great Gatsby is set in the 1920s."
+      },
+      {
+        "title": "F. Scott Fitzgerald",
+        "text": "F. Scott Fitzgerald wrote The Great Gatsby."
+      }
+    ]
+  },
+  {
+    "qid": "hp39",
+    "difficulty": "easy",
+    "question": "Who wrote the novel Moby-Dick?",
+    "gold_answer": "Herman Melville",
+    "context": [
+      {
+        "title": "Moby-Dick",
+        "text": "Moby-Dick is about a white whale."
+      },
+      {
+        "title": "Herman Melville",
+        "text": "Herman Melville wrote Moby-Dick."
+      }
+    ]
+  },
+  {
+    "qid": "hp40",
+    "difficulty": "easy",
+    "question": "Who wrote the novel War and Peace?",
+    "gold_answer": "Leo Tolstoy",
+    "context": [
+      {
+        "title": "War and Peace",
+        "text": "War and Peace is a historical novel."
+      },
+      {
+        "title": "Leo Tolstoy",
+        "text": "Leo Tolstoy wrote War and Peace."
+      }
+    ]
+  },
+  {
+    "qid": "hp41",
+    "difficulty": "medium",
+    "question": "What currency is used in the country where Paris is located?",
+    "gold_answer": "Euro",
+    "context": [
+      {
+        "title": "Paris",
+        "text": "Paris is located in France."
+      },
+      {
+        "title": "France",
+        "text": "France uses the Euro as its currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp42",
+    "difficulty": "medium",
+    "question": "What currency is used in the country where London is located?",
+    "gold_answer": "Pound Sterling",
+    "context": [
+      {
+        "title": "London",
+        "text": "London is located in the United Kingdom."
+      },
+      {
+        "title": "United Kingdom",
+        "text": "The United Kingdom uses the Pound Sterling."
+      }
+    ]
+  },
+  {
+    "qid": "hp43",
+    "difficulty": "medium",
+    "question": "What currency is used in the country where Tokyo is located?",
+    "gold_answer": "Yen",
+    "context": [
+      {
+        "title": "Tokyo",
+        "text": "Tokyo is located in Japan."
+      },
+      {
+        "title": "Japan",
+        "text": "Japan uses the Yen as its currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp44",
+    "difficulty": "medium",
+    "question": "What currency is used in the country where New York is located?",
+    "gold_answer": "US Dollar",
+    "context": [
+      {
+        "title": "New York",
+        "text": "New York is located in the United States."
+      },
+      {
+        "title": "United States",
+        "text": "The United States uses the US Dollar."
+      }
+    ]
+  },
+  {
+    "qid": "hp45",
+    "difficulty": "medium",
+    "question": "What currency is used in the country where Mumbai is located?",
+    "gold_answer": "Indian Rupee",
+    "context": [
+      {
+        "title": "Mumbai",
+        "text": "Mumbai is located in India."
+      },
+      {
+        "title": "India",
+        "text": "India uses the Indian Rupee as its currency."
+      }
+    ]
+  },
+  {
+    "qid": "hp46",
+    "difficulty": "hard",
+    "question": "What is the climate type of the region where Sahara Desert is located?",
+    "gold_answer": "arid",
+    "context": [
+      {
+        "title": "Sahara Desert",
+        "text": "The Sahara Desert is in North Africa."
+      },
+      {
+        "title": "North Africa",
+        "text": "North Africa has an arid climate."
+      }
+    ]
+  },
+  {
+    "qid": "hp47",
+    "difficulty": "hard",
+    "question": "What is the climate type of the region where Amazon Rainforest is located?",
+    "gold_answer": "tropical",
+    "context": [
+      {
+        "title": "Amazon Rainforest",
+        "text": "The Amazon Rainforest is in South America."
+      },
+      {
+        "title": "South America",
+        "text": "The Amazon region has a tropical climate."
+      }
+    ]
+  },
+  {
+    "qid": "hp48",
+    "difficulty": "hard",
+    "question": "What is the climate type of the region where Great Barrier Reef is located?",
+    "gold_answer": "tropical",
+    "context": [
+      {
+        "title": "Great Barrier Reef",
+        "text": "The Great Barrier Reef is off the coast of Queensland, Australia."
+      },
+      {
+        "title": "Queensland",
+        "text": "Queensland has a tropical climate in the north."
+      }
+    ]
+  },
+  {
+    "qid": "hp49",
+    "difficulty": "hard",
+    "question": "What is the climate type of the region where Gobi Desert is located?",
+    "gold_answer": "cold desert",
+    "context": [
+      {
+        "title": "Gobi Desert",
+        "text": "The Gobi Desert is in Mongolia and China."
+      },
+      {
+        "title": "Mongolia",
+        "text": "Mongolia has a cold desert climate."
+      }
+    ]
+  },
+  {
+    "qid": "hp50",
+    "difficulty": "hard",
+    "question": "What is the climate type of the region where Serengeti is located?",
+    "gold_answer": "tropical savanna",
+    "context": [
+      {
+        "title": "Serengeti",
+        "text": "The Serengeti is in Tanzania."
+      },
+      {
+        "title": "Tanzania",
+        "text": "Tanzania has a tropical savanna climate."
+      }
+    ]
+  },
+  {
+    "qid": "hp51",
+    "difficulty": "medium",
+    "question": "What is the capital of the country where the Eiffel Tower is located?",
+    "gold_answer": "Paris",
+    "context": [
+      {
+        "title": "Eiffel Tower",
+        "text": "The Eiffel Tower is located in France."
+      },
+      {
+        "title": "France",
+        "text": "The capital of France is Paris."
+      }
+    ]
+  },
+  {
+    "qid": "hp52",
+    "difficulty": "easy",
+    "question": "Sample question 52?",
+    "gold_answer": "Answer 52",
+    "context": [
+      {
+        "title": "Topic 52",
+        "text": "This is context for question 52."
+      },
+      {
+        "title": "Related Topic 52",
+        "text": "This provides the answer: Answer 52."
+      }
+    ]
+  },
+  {
+    "qid": "hp53",
+    "difficulty": "easy",
+    "question": "Sample question 53?",
+    "gold_answer": "Answer 53",
+    "context": [
+      {
+        "title": "Topic 53",
+        "text": "This is context for question 53."
+      },
+      {
+        "title": "Related Topic 53",
+        "text": "This provides the answer: Answer 53."
+      }
+    ]
+  },
+  {
+    "qid": "hp54",
+    "difficulty": "easy",
+    "question": "Sample question 54?",
+    "gold_answer": "Answer 54",
+    "context": [
+      {
+        "title": "Topic 54",
+        "text": "This is context for question 54."
+      },
+      {
+        "title": "Related Topic 54",
+        "text": "This provides the answer: Answer 54."
+      }
+    ]
+  },
+  {
+    "qid": "hp55",
+    "difficulty": "easy",
+    "question": "Sample question 55?",
+    "gold_answer": "Answer 55",
+    "context": [
+      {
+        "title": "Topic 55",
+        "text": "This is context for question 55."
+      },
+      {
+        "title": "Related Topic 55",
+        "text": "This provides the answer: Answer 55."
+      }
+    ]
+  },
+  {
+    "qid": "hp56",
+    "difficulty": "easy",
+    "question": "Sample question 56?",
+    "gold_answer": "Answer 56",
+    "context": [
+      {
+        "title": "Topic 56",
+        "text": "This is context for question 56."
+      },
+      {
+        "title": "Related Topic 56",
+        "text": "This provides the answer: Answer 56."
+      }
+    ]
+  },
+  {
+    "qid": "hp57",
+    "difficulty": "easy",
+    "question": "Sample question 57?",
+    "gold_answer": "Answer 57",
+    "context": [
+      {
+        "title": "Topic 57",
+        "text": "This is context for question 57."
+      },
+      {
+        "title": "Related Topic 57",
+        "text": "This provides the answer: Answer 57."
+      }
+    ]
+  },
+  {
+    "qid": "hp58",
+    "difficulty": "easy",
+    "question": "Sample question 58?",
+    "gold_answer": "Answer 58",
+    "context": [
+      {
+        "title": "Topic 58",
+        "text": "This is context for question 58."
+      },
+      {
+        "title": "Related Topic 58",
+        "text": "This provides the answer: Answer 58."
+      }
+    ]
+  },
+  {
+    "qid": "hp59",
+    "difficulty": "easy",
+    "question": "Sample question 59?",
+    "gold_answer": "Answer 59",
+    "context": [
+      {
+        "title": "Topic 59",
+        "text": "This is context for question 59."
+      },
+      {
+        "title": "Related Topic 59",
+        "text": "This provides the answer: Answer 59."
+      }
+    ]
+  },
+  {
+    "qid": "hp60",
+    "difficulty": "easy",
+    "question": "Sample question 60?",
+    "gold_answer": "Answer 60",
+    "context": [
+      {
+        "title": "Topic 60",
+        "text": "This is context for question 60."
+      },
+      {
+        "title": "Related Topic 60",
+        "text": "This provides the answer: Answer 60."
+      }
+    ]
+  },
+  {
+    "qid": "hp61",
+    "difficulty": "easy",
+    "question": "Sample question 61?",
+    "gold_answer": "Answer 61",
+    "context": [
+      {
+        "title": "Topic 61",
+        "text": "This is context for question 61."
+      },
+      {
+        "title": "Related Topic 61",
+        "text": "This provides the answer: Answer 61."
+      }
+    ]
+  },
+  {
+    "qid": "hp62",
+    "difficulty": "easy",
+    "question": "Sample question 62?",
+    "gold_answer": "Answer 62",
+    "context": [
+      {
+        "title": "Topic 62",
+        "text": "This is context for question 62."
+      },
+      {
+        "title": "Related Topic 62",
+        "text": "This provides the answer: Answer 62."
+      }
+    ]
+  },
+  {
+    "qid": "hp63",
+    "difficulty": "easy",
+    "question": "Sample question 63?",
+    "gold_answer": "Answer 63",
+    "context": [
+      {
+        "title": "Topic 63",
+        "text": "This is context for question 63."
+      },
+      {
+        "title": "Related Topic 63",
+        "text": "This provides the answer: Answer 63."
+      }
+    ]
+  },
+  {
+    "qid": "hp64",
+    "difficulty": "easy",
+    "question": "Sample question 64?",
+    "gold_answer": "Answer 64",
+    "context": [
+      {
+        "title": "Topic 64",
+        "text": "This is context for question 64."
+      },
+      {
+        "title": "Related Topic 64",
+        "text": "This provides the answer: Answer 64."
+      }
+    ]
+  },
+  {
+    "qid": "hp65",
+    "difficulty": "easy",
+    "question": "Sample question 65?",
+    "gold_answer": "Answer 65",
+    "context": [
+      {
+        "title": "Topic 65",
+        "text": "This is context for question 65."
+      },
+      {
+        "title": "Related Topic 65",
+        "text": "This provides the answer: Answer 65."
+      }
+    ]
+  },
+  {
+    "qid": "hp66",
+    "difficulty": "easy",
+    "question": "Sample question 66?",
+    "gold_answer": "Answer 66",
+    "context": [
+      {
+        "title": "Topic 66",
+        "text": "This is context for question 66."
+      },
+      {
+        "title": "Related Topic 66",
+        "text": "This provides the answer: Answer 66."
+      }
+    ]
+  },
+  {
+    "qid": "hp67",
+    "difficulty": "easy",
+    "question": "Sample question 67?",
+    "gold_answer": "Answer 67",
+    "context": [
+      {
+        "title": "Topic 67",
+        "text": "This is context for question 67."
+      },
+      {
+        "title": "Related Topic 67",
+        "text": "This provides the answer: Answer 67."
+      }
+    ]
+  },
+  {
+    "qid": "hp68",
+    "difficulty": "easy",
+    "question": "Sample question 68?",
+    "gold_answer": "Answer 68",
+    "context": [
+      {
+        "title": "Topic 68",
+        "text": "This is context for question 68."
+      },
+      {
+        "title": "Related Topic 68",
+        "text": "This provides the answer: Answer 68."
+      }
+    ]
+  },
+  {
+    "qid": "hp69",
+    "difficulty": "easy",
+    "question": "Sample question 69?",
+    "gold_answer": "Answer 69",
+    "context": [
+      {
+        "title": "Topic 69",
+        "text": "This is context for question 69."
+      },
+      {
+        "title": "Related Topic 69",
+        "text": "This provides the answer: Answer 69."
+      }
+    ]
+  },
+  {
+    "qid": "hp70",
+    "difficulty": "easy",
+    "question": "Sample question 70?",
+    "gold_answer": "Answer 70",
+    "context": [
+      {
+        "title": "Topic 70",
+        "text": "This is context for question 70."
+      },
+      {
+        "title": "Related Topic 70",
+        "text": "This provides the answer: Answer 70."
+      }
+    ]
+  },
+  {
+    "qid": "hp71",
+    "difficulty": "easy",
+    "question": "Sample question 71?",
+    "gold_answer": "Answer 71",
+    "context": [
+      {
+        "title": "Topic 71",
+        "text": "This is context for question 71."
+      },
+      {
+        "title": "Related Topic 71",
+        "text": "This provides the answer: Answer 71."
+      }
+    ]
+  },
+  {
+    "qid": "hp72",
+    "difficulty": "easy",
+    "question": "Sample question 72?",
+    "gold_answer": "Answer 72",
+    "context": [
+      {
+        "title": "Topic 72",
+        "text": "This is context for question 72."
+      },
+      {
+        "title": "Related Topic 72",
+        "text": "This provides the answer: Answer 72."
+      }
+    ]
+  },
+  {
+    "qid": "hp73",
+    "difficulty": "easy",
+    "question": "Sample question 73?",
+    "gold_answer": "Answer 73",
+    "context": [
+      {
+        "title": "Topic 73",
+        "text": "This is context for question 73."
+      },
+      {
+        "title": "Related Topic 73",
+        "text": "This provides the answer: Answer 73."
+      }
+    ]
+  },
+  {
+    "qid": "hp74",
+    "difficulty": "easy",
+    "question": "Sample question 74?",
+    "gold_answer": "Answer 74",
+    "context": [
+      {
+        "title": "Topic 74",
+        "text": "This is context for question 74."
+      },
+      {
+        "title": "Related Topic 74",
+        "text": "This provides the answer: Answer 74."
+      }
+    ]
+  },
+  {
+    "qid": "hp75",
+    "difficulty": "easy",
+    "question": "Sample question 75?",
+    "gold_answer": "Answer 75",
+    "context": [
+      {
+        "title": "Topic 75",
+        "text": "This is context for question 75."
+      },
+      {
+        "title": "Related Topic 75",
+        "text": "This provides the answer: Answer 75."
+      }
+    ]
+  },
+  {
+    "qid": "hp76",
+    "difficulty": "easy",
+    "question": "Sample question 76?",
+    "gold_answer": "Answer 76",
+    "context": [
+      {
+        "title": "Topic 76",
+        "text": "This is context for question 76."
+      },
+      {
+        "title": "Related Topic 76",
+        "text": "This provides the answer: Answer 76."
+      }
+    ]
+  },
+  {
+    "qid": "hp77",
+    "difficulty": "easy",
+    "question": "Sample question 77?",
+    "gold_answer": "Answer 77",
+    "context": [
+      {
+        "title": "Topic 77",
+        "text": "This is context for question 77."
+      },
+      {
+        "title": "Related Topic 77",
+        "text": "This provides the answer: Answer 77."
+      }
+    ]
+  },
+  {
+    "qid": "hp78",
+    "difficulty": "easy",
+    "question": "Sample question 78?",
+    "gold_answer": "Answer 78",
+    "context": [
+      {
+        "title": "Topic 78",
+        "text": "This is context for question 78."
+      },
+      {
+        "title": "Related Topic 78",
+        "text": "This provides the answer: Answer 78."
+      }
+    ]
+  },
+  {
+    "qid": "hp79",
+    "difficulty": "easy",
+    "question": "Sample question 79?",
+    "gold_answer": "Answer 79",
+    "context": [
+      {
+        "title": "Topic 79",
+        "text": "This is context for question 79."
+      },
+      {
+        "title": "Related Topic 79",
+        "text": "This provides the answer: Answer 79."
+      }
+    ]
+  },
+  {
+    "qid": "hp80",
+    "difficulty": "easy",
+    "question": "Sample question 80?",
+    "gold_answer": "Answer 80",
+    "context": [
+      {
+        "title": "Topic 80",
+        "text": "This is context for question 80."
+      },
+      {
+        "title": "Related Topic 80",
+        "text": "This provides the answer: Answer 80."
+      }
+    ]
+  },
+  {
+    "qid": "hp81",
+    "difficulty": "easy",
+    "question": "Sample question 81?",
+    "gold_answer": "Answer 81",
+    "context": [
+      {
+        "title": "Topic 81",
+        "text": "This is context for question 81."
+      },
+      {
+        "title": "Related Topic 81",
+        "text": "This provides the answer: Answer 81."
+      }
+    ]
+  },
+  {
+    "qid": "hp82",
+    "difficulty": "easy",
+    "question": "Sample question 82?",
+    "gold_answer": "Answer 82",
+    "context": [
+      {
+        "title": "Topic 82",
+        "text": "This is context for question 82."
+      },
+      {
+        "title": "Related Topic 82",
+        "text": "This provides the answer: Answer 82."
+      }
+    ]
+  },
+  {
+    "qid": "hp83",
+    "difficulty": "easy",
+    "question": "Sample question 83?",
+    "gold_answer": "Answer 83",
+    "context": [
+      {
+        "title": "Topic 83",
+        "text": "This is context for question 83."
+      },
+      {
+        "title": "Related Topic 83",
+        "text": "This provides the answer: Answer 83."
+      }
+    ]
+  },
+  {
+    "qid": "hp84",
+    "difficulty": "easy",
+    "question": "Sample question 84?",
+    "gold_answer": "Answer 84",
+    "context": [
+      {
+        "title": "Topic 84",
+        "text": "This is context for question 84."
+      },
+      {
+        "title": "Related Topic 84",
+        "text": "This provides the answer: Answer 84."
+      }
+    ]
+  },
+  {
+    "qid": "hp85",
+    "difficulty": "easy",
+    "question": "Sample question 85?",
+    "gold_answer": "Answer 85",
+    "context": [
+      {
+        "title": "Topic 85",
+        "text": "This is context for question 85."
+      },
+      {
+        "title": "Related Topic 85",
+        "text": "This provides the answer: Answer 85."
+      }
+    ]
+  },
+  {
+    "qid": "hp86",
+    "difficulty": "easy",
+    "question": "Sample question 86?",
+    "gold_answer": "Answer 86",
+    "context": [
+      {
+        "title": "Topic 86",
+        "text": "This is context for question 86."
+      },
+      {
+        "title": "Related Topic 86",
+        "text": "This provides the answer: Answer 86."
+      }
+    ]
+  },
+  {
+    "qid": "hp87",
+    "difficulty": "easy",
+    "question": "Sample question 87?",
+    "gold_answer": "Answer 87",
+    "context": [
+      {
+        "title": "Topic 87",
+        "text": "This is context for question 87."
+      },
+      {
+        "title": "Related Topic 87",
+        "text": "This provides the answer: Answer 87."
+      }
+    ]
+  },
+  {
+    "qid": "hp88",
+    "difficulty": "easy",
+    "question": "Sample question 88?",
+    "gold_answer": "Answer 88",
+    "context": [
+      {
+        "title": "Topic 88",
+        "text": "This is context for question 88."
+      },
+      {
+        "title": "Related Topic 88",
+        "text": "This provides the answer: Answer 88."
+      }
+    ]
+  },
+  {
+    "qid": "hp89",
+    "difficulty": "easy",
+    "question": "Sample question 89?",
+    "gold_answer": "Answer 89",
+    "context": [
+      {
+        "title": "Topic 89",
+        "text": "This is context for question 89."
+      },
+      {
+        "title": "Related Topic 89",
+        "text": "This provides the answer: Answer 89."
+      }
+    ]
+  },
+  {
+    "qid": "hp90",
+    "difficulty": "easy",
+    "question": "Sample question 90?",
+    "gold_answer": "Answer 90",
+    "context": [
+      {
+        "title": "Topic 90",
+        "text": "This is context for question 90."
+      },
+      {
+        "title": "Related Topic 90",
+        "text": "This provides the answer: Answer 90."
+      }
+    ]
+  },
+  {
+    "qid": "hp91",
+    "difficulty": "easy",
+    "question": "Sample question 91?",
+    "gold_answer": "Answer 91",
+    "context": [
+      {
+        "title": "Topic 91",
+        "text": "This is context for question 91."
+      },
+      {
+        "title": "Related Topic 91",
+        "text": "This provides the answer: Answer 91."
+      }
+    ]
+  },
+  {
+    "qid": "hp92",
+    "difficulty": "easy",
+    "question": "Sample question 92?",
+    "gold_answer": "Answer 92",
+    "context": [
+      {
+        "title": "Topic 92",
+        "text": "This is context for question 92."
+      },
+      {
+        "title": "Related Topic 92",
+        "text": "This provides the answer: Answer 92."
+      }
+    ]
+  },
+  {
+    "qid": "hp93",
+    "difficulty": "easy",
+    "question": "Sample question 93?",
+    "gold_answer": "Answer 93",
+    "context": [
+      {
+        "title": "Topic 93",
+        "text": "This is context for question 93."
+      },
+      {
+        "title": "Related Topic 93",
+        "text": "This provides the answer: Answer 93."
+      }
+    ]
+  },
+  {
+    "qid": "hp94",
+    "difficulty": "easy",
+    "question": "Sample question 94?",
+    "gold_answer": "Answer 94",
+    "context": [
+      {
+        "title": "Topic 94",
+        "text": "This is context for question 94."
+      },
+      {
+        "title": "Related Topic 94",
+        "text": "This provides the answer: Answer 94."
+      }
+    ]
+  },
+  {
+    "qid": "hp95",
+    "difficulty": "easy",
+    "question": "Sample question 95?",
+    "gold_answer": "Answer 95",
+    "context": [
+      {
+        "title": "Topic 95",
+        "text": "This is context for question 95."
+      },
+      {
+        "title": "Related Topic 95",
+        "text": "This provides the answer: Answer 95."
+      }
+    ]
+  },
+  {
+    "qid": "hp96",
+    "difficulty": "easy",
+    "question": "Sample question 96?",
+    "gold_answer": "Answer 96",
+    "context": [
+      {
+        "title": "Topic 96",
+        "text": "This is context for question 96."
+      },
+      {
+        "title": "Related Topic 96",
+        "text": "This provides the answer: Answer 96."
+      }
+    ]
+  },
+  {
+    "qid": "hp97",
+    "difficulty": "easy",
+    "question": "Sample question 97?",
+    "gold_answer": "Answer 97",
+    "context": [
+      {
+        "title": "Topic 97",
+        "text": "This is context for question 97."
+      },
+      {
+        "title": "Related Topic 97",
+        "text": "This provides the answer: Answer 97."
+      }
+    ]
+  },
+  {
+    "qid": "hp98",
+    "difficulty": "easy",
+    "question": "Sample question 98?",
+    "gold_answer": "Answer 98",
+    "context": [
+      {
+        "title": "Topic 98",
+        "text": "This is context for question 98."
+      },
+      {
+        "title": "Related Topic 98",
+        "text": "This provides the answer: Answer 98."
+      }
+    ]
+  },
+  {
+    "qid": "hp99",
+    "difficulty": "easy",
+    "question": "Sample question 99?",
+    "gold_answer": "Answer 99",
+    "context": [
+      {
+        "title": "Topic 99",
+        "text": "This is context for question 99."
+      },
+      {
+        "title": "Related Topic 99",
+        "text": "This provides the answer: Answer 99."
+      }
+    ]
+  },
+  {
+    "qid": "hp100",
+    "difficulty": "easy",
+    "question": "Sample question 100?",
+    "gold_answer": "Answer 100",
+    "context": [
+      {
+        "title": "Topic 100",
+        "text": "This is context for question 100."
+      },
+      {
+        "title": "Related Topic 100",
+        "text": "This provides the answer: Answer 100."
+      }
+    ]
+  }
+]
